@@ -11,4 +11,4 @@ Glicol (an acronym for "graph-oriented live coding language") is a computer musi
 
 https://github.com/chaosprint/glicol
 
-> In this organisation page, you can find the works related to Glicol's ecosystem.
+> In this organisation page, you can find the works related to Glicol's ecosystem, mainly because of the license issues.
